@@ -70,5 +70,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Dr. Mart Molle
+* [Dr. Mart Molle](http://www.cs.ucr.edu/~mart/)
 * Elizabeth Liri
